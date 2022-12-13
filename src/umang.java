@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Subject{
     int max = 100;
-    int obtained;
+    float obtained;
 }
 public class umang {
     public static void main(String[] args) {
